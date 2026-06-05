@@ -188,12 +188,11 @@ Expected results (paper, mean over the test set):
 
 ## 8. Pretrained weights
 
-Trained checkpoints for TN3K and DDTI are released under
-[GitHub Releases](https://github.com/Hassan48khan/GBKA-Net/releases).
-Download `gbka_tn3k.pth` / `gbka_ddti.pth` and pass them to `evaluate.py` via
-`--ckpt`.
+Trained checkpoints for TN3K and DDTI (`gbka_tn3k.pth` / `gbka_ddti.pth`) will be
+made available upon publication via
+[GitHub Releases](https://github.com/Hassan48khan/GBKA-Net/releases). Once
+released, download a checkpoint and pass it to `evaluate.py` via `--ckpt`.
 
----
 
 ## 9. Configuration reference
 
